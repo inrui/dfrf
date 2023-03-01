@@ -1,8 +1,6 @@
 '''
 Data Analysis
 '''
-# dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
-
 # Mengimpor library yang diperlukan
 import pandas as pd
 import numpy as np
